@@ -1,5 +1,14 @@
-*.csv
-    __pycache__/
-    .DS_Store
+# Virtual Environment 
+venv/
+.venv/
+env/
 
-    
+# Python compiled files 
+__pycache__/
+*.pyc
+
+# Mac OS junk
+.DS_Store
+
+# Data files (
+*.csv
