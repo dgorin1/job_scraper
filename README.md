@@ -1,4 +1,4 @@
-# Market Signal Detector 
+# Job Post Scraper
 
 ### Automated Job Market Pipeline for Climate Risk & Data Science
 
